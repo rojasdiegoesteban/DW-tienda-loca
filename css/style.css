@@ -1,0 +1,33 @@
+main {
+    min-height: 140vh;
+    background-color:honeydew;
+}
+
+.btn-card{
+    background-color:darkslateblue;
+    color: white;
+}
+
+.card-body{
+    background-color:gainsboro;
+}
+
+.card{
+    width: 12rem;
+}
+
+.img-redes{
+    margin: 10px;
+    width: 36px;
+    height: 36px;
+}
+
+footer ul {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+}
+
+footer ul li {
+    list-style: none;
+}
